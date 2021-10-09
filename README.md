@@ -1,2 +1,2 @@
-# My-Python-
-First repository
+# My-Python
+First repository is newly created by me to learn the git hub and to push the python code/.
